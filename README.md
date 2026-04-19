@@ -1,6 +1,6 @@
 <!-- ====================== HEADER BANNER ====================== -->
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Pedro%20Vargas&fontColor=f5e0dc&fontSize=58&fontAlignY=36&desc=Fullstack%20dev%20in%20the%20making%20%C2%B7%20Building%20in%20public&descSize=18&descAlignY=58&animation=twinkling)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:3b2a5e,50:5a3d8f,100:1a1b27&height=220&section=header&text=Pedro%20Vargas&fontColor=f5e0dc&fontSize=58&fontAlignY=36&desc=Fullstack%20dev%20in%20the%20making%20%C2%B7%20Building%20in%20public&descSize=18&descAlignY=58&animation=twinkling)
 
 <!-- ====================== TYPING SVG ====================== -->
 
@@ -143,7 +143,7 @@ Sou estudante de TI na **Fatec** (SP), na jornada do "hello world" até colocar 
 
 ---
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=twinkling)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:5a3d8f,100:3b2a5e&height=120&section=footer&animation=twinkling)
 
 <div align="center">
   <sub>Thanks for stopping by — if you liked something here, a ⭐ means the world.</sub>
