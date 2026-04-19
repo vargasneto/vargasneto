@@ -1,6 +1,6 @@
 <!-- ====================== HEADER BANNER ====================== -->
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Pedro%20Henrique%20Jord%C3%A3o&fontColor=f5e0dc&fontSize=58&fontAlignY=36&desc=Fullstack%20dev%20in%20the%20making%20%C2%B7%20Building%20in%20public&descSize=18&descAlignY=58&animation=twinkling)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Pedro%20Vargas&fontColor=f5e0dc&fontSize=58&fontAlignY=36&desc=Fullstack%20dev%20in%20the%20making%20%C2%B7%20Building%20in%20public&descSize=18&descAlignY=58&animation=twinkling)
 
 <!-- ====================== TYPING SVG ====================== -->
 
@@ -20,10 +20,10 @@
 
 I'm a Computer Science student at **Fatec** (São Paulo, Brazil) on the journey from "hello world" to shipping full-stack apps in production. I started with **C, Java and C#** on campus, then fell in love with the web and now build mostly with **Next.js · TypeScript · Node**. On weekends I open Jupyter and explore **data with Python** — dashboards, optimization problems, and a bit of ML.
 
-- Currently building a Next.js prize platform (`Devstage`) and experimenting with AI agents.
+- Currently cooking something new in the lab — stay tuned.
 - Currently learning clean architecture on the backend and statistics for data science.
-- Looking for my **first internship / junior role** — remote or in São Paulo.
-- Fun fact: I debug better after the second cup of coffee.
+- Exploring the new AI frontier — LLMs, agents, and how they're reshaping the way we build software.
+- Tip: watch *Mr. Nobody* and *Magnolia*.
 
 <details>
 <summary><b>🇧🇷 Sobre mim (pt-BR) — clique para expandir</b></summary>
@@ -32,10 +32,10 @@ I'm a Computer Science student at **Fatec** (São Paulo, Brazil) on the journey 
 
 Sou estudante de TI na **Fatec** (SP), na jornada do "hello world" até colocar apps fullstack em produção. Comecei com **C, Java e C#** na faculdade, me apaixonei pela web e hoje construo principalmente com **Next.js · TypeScript · Node**. Nos fins de semana abro o Jupyter e exploro **dados com Python** — dashboards, problemas de otimização e um pouco de ML.
 
-- Construindo agora uma plataforma de prêmios em Next.js (`Devstage`) e experimentos com agentes de IA.
+- Cozinhando algo novo no laboratório — fique de olho.
 - Aprendendo agora arquitetura limpa no back-end e estatística aplicada à ciência de dados.
-- Buscando meu **primeiro estágio / primeira vaga júnior** — remoto ou em São Paulo.
-- Curiosidade: eu debugo melhor depois da segunda xícara de café.
+- Explorando a nova fronteira das IAs — LLMs, agentes e como estão mudando o jeito de construir software.
+- Dica: assistam *Mr. Nobody* e *Magnolia*.
 
 </details>
 
@@ -87,11 +87,17 @@ Sou estudante de TI na **Fatec** (SP), na jornada do "hello world" até colocar 
 
 ---
 
-## Trophies
+## Spotlight
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=vargasneto&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/MateusHenrique1004/Bloom-Tech">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MateusHenrique1004&repo=Bloom-Tech&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=bf91f3&icon_color=70a5fd" alt="Bloom-Tech" />
+</a>
+
+<br/><br/>
+
+<sub>A team project I'm especially proud of — built together with <a href="https://github.com/MateusHenrique1004">@MateusHenrique1004</a>.</sub>
 
 </div>
 
