@@ -97,6 +97,10 @@ Sou estudante de TI na **Fatec** (SP), na jornada do "hello world" até colocar 
 
 <br/><br/>
 
+<sub>Bloom-Tech é uma aplicação full-stack que integra IoT e web para monitorar e gerenciar plantas em tempo real, conectando sensores a dashboards interativos com automação e controle inteligente.</sub>
+
+<br/>
+
 <sub>A team project I'm especially proud of — built together with <a href="https://github.com/MateusHenrique1004">@MateusHenrique1004</a>.</sub>
 
 </div>
